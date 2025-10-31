@@ -1,0 +1,5 @@
+# Created at 2025-10-31T18:53:47.253
+Boot Manifest-JAR contains absolute paths in classpath 'M:\MyProjects\poonam-training-project\spring-cloud-gateway-master\cloud-gateway\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

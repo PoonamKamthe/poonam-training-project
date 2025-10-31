@@ -1,0 +1,5 @@
+M:\MyProjects\spring-cloud-gatway-hystrix-master\spring-cloud-gateway-hystrix-master\payment-service\src\main\java\com\javatechie\ps\api\controller\PaymentController.java
+M:\MyProjects\spring-cloud-gatway-hystrix-master\spring-cloud-gateway-hystrix-master\payment-service\src\main\java\com\javatechie\ps\api\service\PaymentService.java
+M:\MyProjects\spring-cloud-gatway-hystrix-master\spring-cloud-gateway-hystrix-master\payment-service\src\main\java\com\javatechie\ps\api\PaymentServiceApplication.java
+M:\MyProjects\spring-cloud-gatway-hystrix-master\spring-cloud-gateway-hystrix-master\payment-service\src\main\java\com\javatechie\ps\api\repository\PaymentRepository.java
+M:\MyProjects\spring-cloud-gatway-hystrix-master\spring-cloud-gateway-hystrix-master\payment-service\src\main\java\com\javatechie\ps\api\entity\Payment.java

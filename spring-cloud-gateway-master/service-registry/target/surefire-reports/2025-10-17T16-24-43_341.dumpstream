@@ -1,0 +1,5 @@
+# Created at 2025-10-17T16:24:43.682
+Boot Manifest-JAR contains absolute paths in classpath 'M:\MyProjects\spring-cloud-gatway-hystrix-master\spring-cloud-gateway-hystrix-master\service-registry\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

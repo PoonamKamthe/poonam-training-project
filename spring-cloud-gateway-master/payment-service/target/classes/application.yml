@@ -1,0 +1,32 @@
+server:
+  port: 9191
+spring:
+  application:
+    name: payment-service
+  cloud:
+    config:
+      enabled: false
+  zipkin:
+    base-url: http://localhost:9411/
+  datasource:
+    url: jdbc:h2:~/testdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password:
+  h2:
+    console:
+      enabled: true
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    hostname:localhost
+logging:
+  file: C:/Users/poona/Desktop/oms.log
